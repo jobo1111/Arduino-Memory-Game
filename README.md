@@ -8,3 +8,6 @@ from 1 to 4 and see how your reaction times differ. \
 First build the project based on the schematic ![Schematic](./Schematic.png)\
 Once built, upload the code in the [button_games](./button_games/button_games.ino) folder to your [Arduino Uno](https://store.arduino.cc/products/arduino-uno-rev3/)\
 The final build could look something like this ![built](./Final_product.jpg)
+
+# TODO
+Port the black jack game to the Arduino
